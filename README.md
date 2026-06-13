@@ -23,11 +23,15 @@ My experience includes systems analysis, business process modelling, database de
 
 ## Technical Skills
 
-##Programming & Web Technologies
-- Java
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,mysql" />
+</p>
+
+<p align="center">
+  📊
+</p>
 
 ## Databases
 - SQL
