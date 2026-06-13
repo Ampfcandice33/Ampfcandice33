@@ -123,7 +123,7 @@ I am passionate about using technology and data to improve business performance,
 
 <img src="73-alx-aice-ai-career-essentials-certificate-ampfarisaho-candice-muthambi.png?raw=true" width="180" />
 <img src="Ampfarisaho  - Intro to Programming.png?raw=true" width="180" />
-<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
+<img src="Ampfarisaho Muthambi (1).pdf?raw=true" width="180" />
 <img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
 <img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
 <img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
