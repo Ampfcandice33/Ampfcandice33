@@ -160,7 +160,7 @@ I am passionate about using technology and data to improve business performance,
 ## 📫 Connect With Me
 
 * 💻 GitHub: https://github.com/YOUR_USERNAME
-* 🔗 LinkedIn:[ Add your LinkedIn](https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/)
+* 🔗 LinkedIn:https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/
 * 📧 Email: [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
 
 ---
