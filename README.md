@@ -26,11 +26,13 @@ My experience includes systems analysis, business process modelling, database de
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,mysql" />
-</p>
-
-<p align="center">
-  📊
+  <img src="https://skillicons.dev/icons?i=java" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="75" height="75" />
 </p>
 
 ## Databases
