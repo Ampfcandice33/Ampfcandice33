@@ -130,8 +130,18 @@ I am passionate about using technology and data to improve business performance,
 <img src="1772596852538.jpeg?raw=true" width="180" />
 <img src="1775915110443.jpeg?raw=true" width="180" />
 <img src="1777157696459 (1).png?raw=true" width="180" />
+<img src="1778096506913.jpeg?raw=true" width="180" />
 <img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
 <img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
+
+<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
+
+<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
+
+<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
+
+<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
+
 
 </p>
 ---
