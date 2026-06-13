@@ -1,63 +1,107 @@
-Hi there, I'm Muthambi Ampfarisaho 👋
+I'm Muthambi Ampfarisaho
 
-Software Analyst
+## 💼 Software Analyst | 💻 Business Analyst | 🌐  System Tester
 
-I am a Software Analyst with a Diploma in Informatics from Tshwane University of Technology. I specialize in analyzing business requirements, evaluating software solutions, modeling business processes, and bridging the gap between business needs and technology solutions.
+I am a Software Analyst with a Diploma in Informatics from Tshwane University of Technology. I specialize in analyzing business requirements, evaluating software solutions, business process modelling, database design, and bridging the gap between business needs and technology.
 
-My experience includes systems analysis, business process modelling, database design, enterprise architecture, software testing, and IT project management. I am passionate about using technology to solve real-world business problems and improve organizational efficiency.
+I am passionate about using technology to solve real-world business problems, improve organizational efficiency, and support digital transformation.
 
 📍 Pretoria, South Africa
-📧 ampfacandice@gmail.com
-
-## Areas of Expertise
-
-- Software Analysis
-- Requirements Gathering & Documentation
-- Business Process Modelling
-- Systems Analysis
-- Software Testing
-- Database Design & SQL
-- Enterprise Architecture (TOGAF)
-- IT Project Management
-- Digital Transformation
-
-## Technical Skills
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="75" height="75" />
-</p>
-
-## Databases
-- SQL
-- Database Design
-- Data Modelling
-
-## Analysis & Documentation
-- Business Analysis
-- Systems Analysis
-- Requirements Engineering
-- Process Modelling
-- SWOT Analysis
-- Stakeholder Analysis
-
-## Tools
-- Microsoft Office
-- Oracle Cloud Technologies
+📧 [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
 
 ---
 
-## Current Focus
+## 🧰 Technical Skills
 
-- Software Analysis
-- Business Analysis
-- Data Analytics
-- Enterprise Architecture
-- Database Systems
-- Software Quality Assurance****
+### 📊 Business Analysis & Enterprise Architecture
+
+* Requirements Gathering & Documentation
+* Business Process Modelling
+* Systems Analysiso
+* Stakeholder Analysis
+* SWOT Analysis
+* Requirements Engineering
+* Enterprise Architecture (TOGAF basics)
+* Digital Transformation
+
+---
+
+### 💻 Programming Languages
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="60" title="Java" />
+  <img src="https://skillicons.dev/icons?i=html" width="60" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="60" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" width="60" title="Python" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=php" width="60" title="PHP" />
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+
+* Git & GitHub
+* Microsoft Office Suite
+* Visual Studio Code
+* Oracle Cloud Technologies
+* Draw.io
+* Firebase (Authentication basics)
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 Firebase Authentication System
+
+Login and registration system using Firebase Authentication with a user dashboard displaying stored user information.
+
+### 🛒 E-Commerce Website
+
+Online store interface with product display, images, and modern UI design.
+
+### 🏠 Real Estate Development Business Plan
+
+Business analysis project covering market research, strategy, financial planning, and growth analysis.
+
+
+---
+
+## 🎓 Education
+
+🎓 **Diploma in Informatics**
+Tshwane University of Technology
+
+---
+
+## 🏆 Certifications
+
+* 🧑‍💻 Front End Development – HTML (Great Learning Academy)
+
+---
+
+## 🎯 Current Focus
+
+* Software Analysis
+* Business Analysis
+* Enterprise Architecture
+* Data Analytics
+* Database Systems
+* Software Quality Assurance
+
+---
+
+## 📈 GitHub Stats
+
+---
+
+## 📫 Connect With Me
+
+* 💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* 🔗 LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/)
+* 📧 Email: [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
+
+
