@@ -126,6 +126,10 @@ I am passionate about using technology and data to improve business performance,
 <img src="OCI25DSOCP.jpg?raw=true" width="180" />
 <img src="1768469334290.jpeg?raw=true" width="180" />
 <img src="1768469436175.jpeg?raw=true" width="180" />
+<img src="1768469569720.jpeg?raw=true" width="180" />
+<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
+<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
+<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
 <img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
 <img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
 
