@@ -23,7 +23,6 @@ My experience includes systems analysis, business process modelling, database de
 
 ## Technical Skills
 
-## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
