@@ -119,14 +119,13 @@ I am passionate about using technology and data to improve business performance,
 
 ## 🏆 Certifications
 
-* Oracle Cloud Database Services (2025)
-* Oracle Cloud Infrastructure Data Science (2025)
-* Cisco Data Science & Python (2026)
-* IBM Data Literacy & Data Fundamentals (2026)
-* AI Augmented Professional Skills (2024)
-* Java Programming – Great Learning (2024)
-* Front-End Development (HTML) – Great Learning (2024)
+<p align="center">
 
+<img src="https://github.com/Ampfcandice33/Ampfcandice33/blob/main/your-file.png?raw=true" width="180" />
+<img src="PASTE_YOUR_IMAGE_LINK_2?raw=true" width="180" />
+<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
+
+</p>
 ---
 
 ## 🎯 Current Focus
