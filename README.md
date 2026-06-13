@@ -15,7 +15,6 @@ I am passionate about using technology and data to improve business performance,
 
 ### 💻 Programming & Web Technologies
 
-## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
