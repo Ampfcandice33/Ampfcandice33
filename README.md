@@ -1,107 +1,147 @@
-I'm Muthambi Ampfarisaho
+ Muthambi Ampfarisaho
 
-## 💼 Software Analyst | 💻 Business Analyst | 🌐  System Tester
+## 💼 Software Analyst | 📊 Business Analyst | 💻 Systems & Data Enthusiast
 
-I am a Software Analyst with a Diploma in Informatics from Tshwane University of Technology. I specialize in analyzing business requirements, evaluating software solutions, business process modelling, database design, and bridging the gap between business needs and technology.
+Informatics professional with a strong foundation in business analysis, database management, systems analysis, and IT project management. I specialize in analysing business processes, designing databases, and supporting digital transformation initiatives.
 
-I am passionate about using technology to solve real-world business problems, improve organizational efficiency, and support digital transformation.
+I am passionate about using technology and data to improve business performance, decision-making, and operational efficiency.
 
 📍 Pretoria, South Africa
 📧 [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
+📞 068 581 7872
+🔗 LinkedIn: Add your link here
 
 ---
 
-## 🧰 Technical Skills
-
-### 📊 Business Analysis & Enterprise Architecture
-
-* Requirements Gathering & Documentation
-* Business Process Modelling
-* Systems Analysiso
-* Stakeholder Analysis
-* SWOT Analysis
-* Requirements Engineering
-* Enterprise Architecture (TOGAF basics)
-* Digital Transformation
-
----
-
-### 💻 Programming Languages
-
-### 💻 Programming Languages
+### 💻 Programming & Web Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="60" title="Java" />
-  <img src="https://skillicons.dev/icons?i=html" width="60" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="60" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="60" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=python" width="60" title="Python" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=php" width="60" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=java" width="60" />
+  <img src="https://skillicons.dev/icons?i=html" width="60" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="60" />
 </p>
 
----
+### 🗄️ Databases & Tools
 
-### 🛠️ Tools & Technologies
+* SQL
+* Database Design
+* Microsoft Office
+* Data Modelling
 
-* Git & GitHub
-* Microsoft Office Suite
-* Visual Studio Code
-* Oracle Cloud Technologies
-* Draw.io
-* Firebase (Authentication basics)
+### 📊 Analysis & Systems
 
----
-
-## 📂 Featured Projects
-
-### 🔐 Firebase Authentication System
-
-Login and registration system using Firebase Authentication with a user dashboard displaying stored user information.
-
-### 🛒 E-Commerce Website
-
-Online store interface with product display, images, and modern UI design.
-
-### 🏠 Real Estate Development Business Plan
-
-Business analysis project covering market research, strategy, financial planning, and growth analysis.
-
+* Business Analysis
+* Systems Analysis
+* Business Process Modelling
+* Requirements Engineering
+* Enterprise Architecture
 
 ---
 
-## 🎓 Education
+## 📂 Featured Projects (From Academic & Practical Work)
 
-🎓 **Diploma in Informatics**
-Tshwane University of Technology
+### 🗄️ CRM Database Design (Database Developer)
+
+* Designed a relational CRM database with leads, customers, campaigns, and support tables
+* Applied normalization and enforced PK/FK relationships for data integrity
+* Developed SQL queries for reporting and performance tracking
 
 ---
+
+### 🏥 Patient Portal System (IT Project Management)
+
+* Developed project charter, stakeholder analysis, and system requirements
+* Identified project risks and created mitigation strategies
+* Defined scope, timeline, milestones, and budget planning
+
+---
+
+### 📊 IT Project Scope & Planning Development (Project Planner)
+
+* Created Work Breakdown Structure (WBS), schedule, and budget estimates
+* Applied risk management frameworks and project governance structures
+
+---
+
+### 📈 Strategic Information Systems Analysis – Uber Technologies Inc. (Systems Analyst)
+
+* Applied Business Model Canvas and Porter’s Five Forces
+* Conducted SWOT analysis on operations, pricing, and technology strategy
+* Evaluated competitive positioning of Uber’s business model
+
+---
+
+### 🏛️ Library Management System (Enterprise Architect)
+
+* Designed TOGAF-based enterprise architecture (business, data, application layers)
+* Defined digital transformation strategy for library operations
+* Proposed governance, scalability, and data management frameworks
+
+---
+
+### 📊 Business Process Modelling & Analysis (Business Analyst)
+
+* Mapped As-Is and To-Be business processes
+* Identified inefficiencies and proposed improvement solutions
+* Documented workflow optimization recommendations
+
+---
+
+### 🏥 Patient Portal System – Med-Heath Care (Advanced IT Project Manager)
+
+* Led full project planning including scope, milestones, and deliverables
+* Created stakeholder register and risk management plan
+* Applied AI-assisted analysis with validation and review
+
+---
+
+### 🍔 Moja Flava Fast Food – Process Testing (QA & Systems Testing)
+
+* Collected requirements through SME engagement
+* Designed and executed test cases and test scenarios
+* Produced test reports validating system functionality
+
+---
+
+### 🏛️ Ubuntu City Public Library – Digital Transformation
+
+* Designed TOGAF enterprise architecture for digital transformation
+* Developed business, data, and application architecture layers
+* Conducted SWOT and IT governance analysis
+
+---
+
 
 ## 🏆 Certifications
 
-* 🧑‍💻 Front End Development – HTML (Great Learning Academy)
+* Oracle Cloud Database Services (2025)
+* Oracle Cloud Infrastructure Data Science (2025)
+* Cisco Data Science & Python (2026)
+* IBM Data Literacy & Data Fundamentals (2026)
+* AI Augmented Professional Skills (2024)
+* Java Programming – Great Learning (2024)
+* Front-End Development (HTML) – Great Learning (2024)
 
 ---
 
 ## 🎯 Current Focus
 
-* Software Analysis
-* Business Analysis
-* Enterprise Architecture
-* Data Analytics
-* Database Systems
+* Business & Systems Analysis
+* Database Design & SQL
+* Enterprise Architecture (TOGAF)
+* IT Project Management
+* Data Science Fundamentals
 * Software Quality Assurance
-
----
-
-## 📈 GitHub Stats
 
 ---
 
 ## 📫 Connect With Me
 
-* 💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* 🔗 LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/)
+* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 🔗 LinkedIn:[ Add your LinkedIn](https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/)
 * 📧 Email: [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
 
+---
 
+⭐ *“Turning business problems into structured digital solutions through analysis and technology.”*
