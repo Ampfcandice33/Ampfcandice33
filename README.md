@@ -12,7 +12,7 @@ Informatics, with a strong foundation:
 
 ### 💻 Programming & Web Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
