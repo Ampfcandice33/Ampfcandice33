@@ -2,9 +2,15 @@
 
 ## 💻 Software Analyst
 
-Informatics professional with a strong foundation in business analysis, database management, systems analysis, and IT project management. I specialize in analysing business processes, designing databases, and supporting digital transformation initiatives.
+Informatics Software Analyst, with a strong foundation: 
+- Business analysis.
+- Database management.
+- Systems analysis.
+- IT project management. 
 
-I am passionate about using technology and data to improve business performance, decision-making, and operational efficiency.
+
+I specialize in analysing business processes, designing databases, and supporting digital transformation initiatives to improve business performance, decision-making, and operational efficiency.
+
 
 📍 Pretoria, South Africa
 📧 [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
