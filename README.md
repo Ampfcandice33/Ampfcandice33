@@ -24,8 +24,8 @@ Informatics, with a strong foundation:
 
 <table>
   <tr>
-    <th align="left">🗄️ Databases & Tools</th>
-    <th align="left">📊 Analysis & Systems</th>
+    <th align="center">🗄️ Databases & Tools</th>
+    <th align="center">📊 Analysis & Systems</th>
   </tr>
   <tr>
     <td valign="top">
