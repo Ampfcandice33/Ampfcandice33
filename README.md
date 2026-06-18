@@ -4,16 +4,7 @@ Informatics, with a strong foundation:
 - Business Analysis.
 - Database Management.
 - Systems Analysis.
-- IT Project Management. 
-
-
-I specialize in analysing business processes, designing databases, and supporting digital transformation initiatives to improve business performance, decision-making, and operational efficiency.
-
-
-📍 Pretoria, South Africa
-📧 [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
-📞 068 581 7872
-🔗 LinkedIn: https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/
+- IT Project Management.
 
 ---
 
@@ -150,9 +141,10 @@ I specialize in analysing business processes, designing databases, and supportin
 
 ## 📫 Contact Me
 
-* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 📍 Pretoria, South Africa
+* 📞 068 581 7872
+* 📧 Email: ampfacandice@gmail.com
 * 🔗 LinkedIn:https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/
-* 📧 Email: [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
 
 ---
 
