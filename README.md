@@ -5,6 +5,7 @@ Informatics, with a strong foundation:
 - Database Management.
 - Systems Analysis.
 - IT Project Management.
+- Artificial Intelligence (AI)
 
 ---
 
