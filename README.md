@@ -1,5 +1,3 @@
-Clean this for me and restructure it, give it a more software developer and informatics look and feel:
-
 ## 💻 Software Analyst
 
 Informatics, with a strong foundation: 
