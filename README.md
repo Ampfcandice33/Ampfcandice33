@@ -1,6 +1,6 @@
-# Muthambi Ampfarisaho
+## Muthambi Ampfarisaho
 
-## 💻 Software Analyst
+# 💻 Software Analyst
 
 Informatics Software Analyst, with a strong foundation: 
 - Business analysis.
