@@ -1,15 +1,16 @@
-## 💻 Software Analyst | Informatics
+Clean this for me and restructure it, give it a more software developer and informatics look and feel:
 
-Informatics professional focused on:
+## 💻 Software Analyst
 
-* Business Analysis
-* Systems Analysis
-* Database Design
-* Software Development
-* IT Project Management
-* Digital Transformation
+Informatics, with a strong foundation: 
+- Business analysis.
+- Database management.
+- Systems analysis.
+- IT project management. 
 
-I analyse business processes, design data-driven systems, and support technology solutions that improve operations, reporting, and decision-making.
+
+I specialize in analysing business processes, designing databases, and supporting digital transformation initiatives to improve business performance, decision-making, and operational efficiency.
+
 
 📍 Pretoria, South Africa
 📧 [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
@@ -18,7 +19,8 @@ I analyse business processes, design data-driven systems, and support technology
 
 ---
 
-## 🧑‍💻 Tech Stack
+### 💻 Programming & Web Technologies
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,122 +32,96 @@ I analyse business processes, design data-driven systems, and support technology
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="75" height="75" />
 </p>
 
----
-
-## 🗄️ Databases & Tools
+### 🗄️ Databases & Tools
 
 * SQL
-* MySQL
 * Database Design
-* Data Modelling
 * Microsoft Office
-* Microsoft Excel
+* Data Modelling
 
----
-
-## 📊 Analysis & Systems
+### 📊 Analysis & Systems
 
 * Business Analysis
 * Systems Analysis
-* Requirements Engineering
 * Business Process Modelling
+* Requirements Engineering
 * Enterprise Architecture
-* IT Project Management
-* Software Quality Assurance
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects (From Academic & Practical Work)
 
-### 🗄️ CRM Database Design
+### 🗄️ CRM Database Design (Database Developer)
 
-**Role:** Database Developer
-
-* Designed a relational CRM database for leads, customers, campaigns, and support records
-* Applied normalization, primary keys, and foreign keys
-* Created SQL queries for reporting and tracking
+* Designed a relational CRM database with leads, customers, campaigns, and support tables
+* Applied normalization and enforced PK/FK relationships for data integrity
+* Developed SQL queries for reporting and performance tracking
 
 ---
 
-### 🏥 Patient Portal System
+### 🏥 Patient Portal System (IT Project Management)
 
-**Role:** IT Project Manager
-
-* Created project charter, stakeholder analysis, and requirements
-* Defined scope, timeline, milestones, and budget
-* Identified risks and mitigation strategies
+* Developed project charter, stakeholder analysis, and system requirements
+* Identified project risks and created mitigation strategies
+* Defined scope, timeline, milestones, and budget planning
 
 ---
 
-### 📊 IT Project Scope & Planning Development
+### 📊 IT Project Scope & Planning Development (Project Planner)
 
-**Role:** Project Planner
-
-* Created Work Breakdown Structure
-* Developed schedule and budget estimates
-* Applied project governance and risk planning
+* Created Work Breakdown Structure (WBS), schedule, and budget estimates
+* Applied risk management frameworks and project governance structures
 
 ---
 
-### 📈 Strategic Information Systems Analysis – Uber Technologies Inc.
-
-**Role:** Systems Analyst
+### 📈 Strategic Information Systems Analysis – Uber Technologies Inc. (Systems Analyst)
 
 * Applied Business Model Canvas and Porter’s Five Forces
-* Conducted SWOT analysis
-* Evaluated Uber’s technology and business strategy
+* Conducted SWOT analysis on operations, pricing, and technology strategy
+* Evaluated competitive positioning of Uber’s business model
 
 ---
 
-### 🏛️ Library Management System
+### 🏛️ Library Management System (Enterprise Architect)
 
-**Role:** Enterprise Architect
-
-* Designed TOGAF-based enterprise architecture
-* Defined business, data, and application layers
-* Proposed governance and digital transformation improvements
+* Designed TOGAF-based enterprise architecture (business, data, application layers)
+* Defined digital transformation strategy for library operations
+* Proposed governance, scalability, and data management frameworks
 
 ---
 
-### 📊 Business Process Modelling & Analysis
+### 📊 Business Process Modelling & Analysis (Business Analyst)
 
-**Role:** Business Analyst
-
-* Mapped As-Is and To-Be processes
-* Identified process gaps and inefficiencies
-* Recommended workflow improvements
+* Mapped As-Is and To-Be business processes
+* Identified inefficiencies and proposed improvement solutions
+* Documented workflow optimization recommendations
 
 ---
 
-### 🏥 Patient Portal System – Med-Health Care
+### 🏥 Patient Portal System – Med-Heath Care (Advanced IT Project Manager)
 
-**Role:** Advanced IT Project Manager
-
-* Planned scope, milestones, and deliverables
-* Created stakeholder register and risk plan
-* Used AI-assisted analysis with review and validation
+* Led full project planning including scope, milestones, and deliverables
+* Created stakeholder register and risk management plan
+* Applied AI-assisted analysis with validation and review
 
 ---
 
-### 🍔 Moja Flava Fast Food – Process Testing
+### 🍔 Moja Flava Fast Food – Process Testing (QA & Systems Testing)
 
-**Role:** QA & Systems Testing
-
-* Gathered requirements from SME engagement
-* Designed test cases and scenarios
-* Produced test reports for system validation
+* Collected requirements through SME engagement
+* Designed and executed test cases and test scenarios
+* Produced test reports validating system functionality
 
 ---
 
 ### 🏛️ Ubuntu City Public Library – Digital Transformation
 
-**Role:** Enterprise Architecture Analyst
-
-* Designed TOGAF architecture for digital transformation
-* Developed business, data, and application architecture
+* Designed TOGAF enterprise architecture for digital transformation
+* Developed business, data, and application architecture layers
 * Conducted SWOT and IT governance analysis
 
 ---
+
 
 ## 🏆 Certifications
 
@@ -163,14 +139,11 @@ I analyse business processes, design data-driven systems, and support technology
   <img src="1778096618470.jpeg?raw=true" width="180" />
 </p>
 
----
-
 ## 🎯 Current Focus
 
-* Software Development
 * Business & Systems Analysis
 * Database Design & SQL
-* Enterprise Architecture
+* Enterprise Architecture (TOGAF)
 * IT Project Management
 * Data Science Fundamentals
 * Software Quality Assurance
@@ -180,9 +153,9 @@ I analyse business processes, design data-driven systems, and support technology
 ## 📫 Contact Me
 
 * 💻 GitHub: https://github.com/YOUR_USERNAME
-* 🔗 LinkedIn: https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/
+* 🔗 LinkedIn:https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/
 * 📧 Email: [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
 
 ---
 
-⭐ *Turning business problems into structured digital solutions through analysis and technology.*
+⭐ *“Turning business problems into structured digital solutions through analysis and technology.”*
