@@ -3,10 +3,10 @@ Clean this for me and restructure it, give it a more software developer and info
 ## 💻 Software Analyst
 
 Informatics, with a strong foundation: 
-- Business analysis.
-- Database management.
-- Systems analysis.
-- IT project management. 
+- Business Analysis.
+- Database Management.
+- Systems Analysis.
+- IT Project Management. 
 
 
 I specialize in analysing business processes, designing databases, and supporting digital transformation initiatives to improve business performance, decision-making, and operational efficiency.
