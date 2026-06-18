@@ -1,16 +1,16 @@
 # 💻 Software Analyst
 
-Informatics, with a strong foundation: 
-- Business Analysis.
-- Database Management.
-- Systems Analysis.
-- IT Project Management.
-- Artificial Intelligence (AI)
+Informatics, with a strong foundation:
+
+* Business Analysis.
+* Database Management.
+* Systems Analysis.
+* IT Project Management.
+* Artificial Intelligence (AI)
 
 ---
 
 ### 💻 Programming & Web Technologies
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="75" height="75" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,20 +22,31 @@ Informatics, with a strong foundation:
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="75" height="75" />
 </p>
 
-### 🗄️ Databases & Tools
-
-* SQL
-* Database Design
-* Microsoft Office
-* Data Modelling
-
-### 📊 Analysis & Systems
-
-* Business Analysis
-* Systems Analysis
-* Business Process Modelling
-* Requirements Engineering
-* Enterprise Architecture
+<table>
+  <tr>
+    <th align="left">🗄️ Databases & Tools</th>
+    <th align="left">📊 Analysis & Systems</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>SQL</li>
+        <li>Database Design</li>
+        <li>Microsoft Office</li>
+        <li>Data Modelling</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Business Analysis</li>
+        <li>Systems Analysis</li>
+        <li>Business Process Modelling</li>
+        <li>Requirements Engineering</li>
+        <li>Enterprise Architecture</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -112,7 +123,6 @@ Informatics, with a strong foundation:
 
 ---
 
-
 ## 🏆 Certifications
 
 <p align="center">
@@ -144,7 +154,7 @@ Informatics, with a strong foundation:
 
 * 📍 Pretoria, South Africa
 * 📞 068 581 7872
-* 📧 Email: ampfacandice@gmail.com
+* 📧 Email: [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
 * 🔗 LinkedIn:https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/
 
 ---
