@@ -1,6 +1,6 @@
 # Muthambi Ampfarisaho
 
-## 💼 Software Analyst | 📊 Business Analyst | 💻 Systems & Data Enthusiast
+## 💻 Software Analyst
 
 Informatics professional with a strong foundation in business analysis, database management, systems analysis, and IT project management. I specialize in analysing business processes, designing databases, and supporting digital transformation initiatives.
 
@@ -9,7 +9,7 @@ I am passionate about using technology and data to improve business performance,
 📍 Pretoria, South Africa
 📧 [ampfacandice@gmail.com](mailto:ampfacandice@gmail.com)
 📞 068 581 7872
-🔗 LinkedIn: Add your link here
+🔗 LinkedIn: https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/
 
 ---
 
@@ -132,17 +132,6 @@ I am passionate about using technology and data to improve business performance,
 <img src="1777157696459 (1).png?raw=true" width="180" />
 <img src="1778096506913.jpeg?raw=true" width="180" />
 <img src="1778096618470.jpeg?raw=true" width="180" />
-<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
-
-<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
-
-<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
-
-<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
-
-<img src="PASTE_YOUR_IMAGE_LINK_3?raw=true" width="180" />
-
-
 </p>
 ---
 
@@ -157,7 +146,7 @@ I am passionate about using technology and data to improve business performance,
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 * 💻 GitHub: https://github.com/YOUR_USERNAME
 * 🔗 LinkedIn:https://www.linkedin.com/in/ampfarisaho-muthambi-28b215313/
